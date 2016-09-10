@@ -17,7 +17,7 @@ The "tidy" dataset includes the following files:
 - "README.txt" : this file
 - "tidy_data.txt" : cleaned and processed data set
 - "run_analysis.R" : the R script used to produce the tidy data set
-- codebook.txt : list of variables
+- "codebook.txt" : list of variables
 
 Analysis overview:
 - the test and the training data sets are read as data frames and proper column names are set
