@@ -1,9 +1,9 @@
 # coursera_tidy_data
-Getting and Cleaning Data
+## Getting and Cleaning Data
 
-# run_analysis.R
+## run_analysis.R
 
-# reading the test and the train data respectively
+## reading the test and the train data respectively
 dfTest <- read.table("test/X_test.txt")
 dfTrain <- read.table("train/X_train.txt")
 
